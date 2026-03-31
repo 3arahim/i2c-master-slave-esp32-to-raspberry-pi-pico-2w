@@ -1,5 +1,3 @@
-<img width="752" height="507" alt="esptopico" src="https://github.com/user-attachments/assets/e3b1ec80-0ae6-4e78-ac22-cd2e65ba6f81" />
-
 <h2>ESP32 to Raspberry Pi Pico 2 W I2C Communication</h2>
 
 <p>
@@ -27,6 +25,8 @@ programmed, the ESP32 sends data packets and the Pico receives and prints the va
 </ul>
 
 <h3>Wiring</h3>
+
+<img width="752" height="507" alt="esptopico" src="https://github.com/user-attachments/assets/e3b1ec80-0ae6-4e78-ac22-cd2e65ba6f81" />
 
 <p>Connect the boards as follows:</p>
 
