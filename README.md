@@ -1,6 +1,3 @@
-# i2c-master-slave-esp32-to-raspberry-pi-pico-2w
-<img width="752" height="507" alt="esptopico" src="https://github.com/user-attachments/assets/aa89b9bd-fb06-4d67-a871-f28cd4d281a0" />
-
 <h2>ESP32 to Raspberry Pi Pico 2 W I2C Communication</h2>
 
 <p>
@@ -91,15 +88,6 @@ After both boards are powered and programmed, the Pico should receive the transm
 the ESP32 and print them through serial output. This confirms that the I2C link is working and that
 the Pico is correctly configured as a slave device.
 </p>
-
-<h3>Notes</h3>
-
-<ul>
-  <li>Make sure both boards share a common ground.</li>
-  <li>Check that SDA and SCL are not swapped.</li>
-  <li>Confirm that the slave address matches on both sides.</li>
-  <li>If communication fails, check the pull-up resistors first.</li>
-</ul>>
 
 <h3>Notes</h3>
 
