@@ -79,8 +79,8 @@ mode when needed. :contentReference[oaicite:1]{index=1}
 <h3>Project Files</h3>
 
 <ul>
-  <li><b>master.cpp.ino</b> - ESP32 master code</li>
-  <li><b>pico.ino</b> - Raspberry Pi Pico 2 W slave code</li>
+  <li><b>masteresp32.ino</b> - ESP32 master code</li>
+  <li><b>slavepico.ino</b> - Raspberry Pi Pico 2 W slave code</li>
 </ul>
 
 <h3>Expected Result</h3>
